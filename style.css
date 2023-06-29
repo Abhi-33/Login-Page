@@ -25,6 +25,7 @@ html,body{
     margin-top:120px;
     margin-left:480px;
     background-color: white;
+    transform:translatey(-10%);
 }
 
 /*login-heading*/
